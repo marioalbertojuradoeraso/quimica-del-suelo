@@ -1,0 +1,107 @@
+{
+  "origen": {
+    "file": "origen.mp3",
+    "modelo": "eleven_multilingual_v2",
+    "voz": "James - Professional voiceover (colombian)",
+    "voice_id": "YFz1BE3aN7fQBZrEgdBE",
+    "titulo": "De la roca al suelo"
+  },
+  "que-es-suelo": {
+    "file": "que-es-suelo.mp3",
+    "modelo": "eleven_multilingual_v2",
+    "voz": "James - Professional voiceover (colombian)",
+    "voice_id": "YFz1BE3aN7fQBZrEgdBE",
+    "titulo": "¿Qué es exactamente el suelo?"
+  },
+  "suelo-vs-sedimento": {
+    "file": "suelo-vs-sedimento.mp3",
+    "modelo": "eleven_multilingual_v2",
+    "voz": "James - Professional voiceover (colombian)",
+    "voice_id": "YFz1BE3aN7fQBZrEgdBE",
+    "titulo": "Suelo y sedimento de río no son lo mismo"
+  },
+  "horizontes": {
+    "file": "horizontes.mp3",
+    "modelo": "eleven_multilingual_v2",
+    "voz": "James - Professional voiceover (colombian)",
+    "voice_id": "YFz1BE3aN7fQBZrEgdBE",
+    "titulo": "Los horizontes del suelo"
+  },
+  "textura": {
+    "file": "textura.mp3",
+    "modelo": "eleven_multilingual_v2",
+    "voz": "James - Professional voiceover (colombian)",
+    "voice_id": "YFz1BE3aN7fQBZrEgdBE",
+    "titulo": "Textura: el tamaño de las partículas"
+  },
+  "estructura": {
+    "file": "estructura.mp3",
+    "modelo": "eleven_multilingual_v2",
+    "voz": "James - Professional voiceover (colombian)",
+    "voice_id": "YFz1BE3aN7fQBZrEgdBE",
+    "titulo": "Estructura: cómo se agrupan las partículas"
+  },
+  "fisicos": {
+    "file": "fisicos.mp3",
+    "modelo": "eleven_multilingual_v2",
+    "voz": "James - Professional voiceover (colombian)",
+    "voice_id": "YFz1BE3aN7fQBZrEgdBE",
+    "titulo": "Porosidad, densidad y retención de agua"
+  },
+  "ph": {
+    "file": "ph.mp3",
+    "modelo": "eleven_multilingual_v2",
+    "voz": "James - Professional voiceover (colombian)",
+    "voice_id": "YFz1BE3aN7fQBZrEgdBE",
+    "titulo": "pH del suelo"
+  },
+  "cic": {
+    "file": "cic.mp3",
+    "modelo": "eleven_multilingual_v2",
+    "voz": "James - Professional voiceover (colombian)",
+    "voice_id": "YFz1BE3aN7fQBZrEgdBE",
+    "titulo": "CIC y saturación de bases"
+  },
+  "salinidad": {
+    "file": "salinidad.mp3",
+    "modelo": "eleven_multilingual_v2",
+    "voz": "James - Professional voiceover (colombian)",
+    "voice_id": "YFz1BE3aN7fQBZrEgdBE",
+    "titulo": "Salinidad y sodicidad"
+  },
+  "materia-organica": {
+    "file": "materia-organica.mp3",
+    "modelo": "eleven_multilingual_v2",
+    "voz": "James - Professional voiceover (colombian)",
+    "voice_id": "YFz1BE3aN7fQBZrEgdBE",
+    "titulo": "Materia orgánica y carbono orgánico"
+  },
+  "nutrientes": {
+    "file": "nutrientes.mp3",
+    "modelo": "eleven_multilingual_v2",
+    "voz": "James - Professional voiceover (colombian)",
+    "voice_id": "YFz1BE3aN7fQBZrEgdBE",
+    "titulo": "Nutrientes del suelo"
+  },
+  "contaminacion": {
+    "file": "contaminacion.mp3",
+    "modelo": "eleven_multilingual_v2",
+    "voz": "James - Professional voiceover (colombian)",
+    "voice_id": "YFz1BE3aN7fQBZrEgdBE",
+    "titulo": "Contaminación del suelo"
+  },
+  "remediacion": {
+    "file": "remediacion.mp3",
+    "modelo": "eleven_multilingual_v2",
+    "voz": "James - Professional voiceover (colombian)",
+    "voice_id": "YFz1BE3aN7fQBZrEgdBE",
+    "titulo": "Remediación de suelos"
+  },
+  "cierre": {
+    "file": "cierre.mp3",
+    "modelo": "eleven_multilingual_v2",
+    "voz": "James - Professional voiceover (colombian)",
+    "voice_id": "YFz1BE3aN7fQBZrEgdBE",
+    "titulo": "Fertilidad y vulnerabilidad"
+  }
+}

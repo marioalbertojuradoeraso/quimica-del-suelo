@@ -1,0 +1,68 @@
+{
+  "portada": {
+    "file": "portada.jpg",
+    "prompt": "seccion transversal de un suelo vivo: capa de hojas secas arriba, tierra oscura con raices de una planta, pequenas piedras, gotas de agua filtrandose y aire en los poros, lombriz de tierra. ilustracion educativa digital, estilo vectorial limpio y calido, colores tierra y verdes naturales, composicion clara, alto contraste, sin texto, sin letras, sin numeros, sin marcas de agua, fondo simple",
+    "model": "flux-dev",
+    "id": "75a7562e-86fc-47dd-b3c0-f79485fea2c3"
+  },
+  "horizontes": {
+    "file": "horizontes.jpg",
+    "prompt": "corte vertical de un perfil de suelo en un bloque rectangular, seis capas horizontales bien delimitadas y de distinto color y grosor: capa organica oscura con hojas, capa negra humifera, capa gris clara lavada, capa rojiza de acumulacion, capa de roca fragmentada y roca madre solida al fondo. ilustracion educativa digital, estilo vectorial limpio y calido, colores tierra y verdes naturales, composicion clara, alto contraste, sin texto, sin letras, sin numeros, sin marcas de agua, fondo simple",
+    "model": "flux-dev",
+    "id": "d43e3ccd-86c9-412f-98f5-40e8dd6af253"
+  },
+  "textura": {
+    "file": "textura.jpg",
+    "prompt": "tres montones de suelo lado a lado sobre fondo claro: uno de granos gruesos y sueltos, uno de polvo fino y suave, uno de terrones compactos y brillantes, con una lupa y un vaso de agua al lado. ilustracion educativa digital, estilo vectorial limpio y calido, colores tierra y verdes naturales, composicion clara, alto contraste, sin texto, sin letras, sin numeros, sin marcas de agua, fondo simple",
+    "model": "flux-dev",
+    "id": "c52a4e81-5359-4931-86b6-ca55994e6d67"
+  },
+  "estructura": {
+    "file": "estructura.jpg",
+    "prompt": "primer plano de agregados de suelo: terrones redondeados tipo migajon, bloques angulares y laminas apiladas, mostrados como piezas de rompecabezas con raices finas entre ellos. ilustracion educativa digital, estilo vectorial limpio y calido, colores tierra y verdes naturales, composicion clara, alto contraste, sin texto, sin letras, sin numeros, sin marcas de agua, fondo simple",
+    "model": "flux-dev",
+    "id": "87347e5d-b1bf-492e-96ce-5ce67c47cfa5"
+  },
+  "porosidad": {
+    "file": "porosidad.jpg",
+    "prompt": "macro de una esponja de tierra con poros visibles llenos de agua azul y de aire blanco, comparada con una esfera de tierra compacta casi sin huecos. ilustracion educativa digital, estilo vectorial limpio y calido, colores tierra y verdes naturales, composicion clara, alto contraste, sin texto, sin letras, sin numeros, sin marcas de agua, fondo simple",
+    "model": "flux-dev",
+    "id": "4088a5bf-8501-4b8a-83d0-7049bd640f43"
+  },
+  "suelo_vs_sedimento": {
+    "file": "suelo_vs_sedimento.jpg",
+    "prompt": "composicion dividida en dos mitades: izquierda una ladera con suelo estratificado y raices de plantas; derecha un lecho de rio con arena, grava y cantos rodados depositados en capas horizontales bajo el agua. ilustracion educativa digital, estilo vectorial limpio y calido, colores tierra y verdes naturales, composicion clara, alto contraste, sin texto, sin letras, sin numeros, sin marcas de agua, fondo simple",
+    "model": "flux-dev",
+    "id": "6cfa1ea0-9645-4731-bf77-a3a2a65f8ff7"
+  },
+  "contaminacion": {
+    "file": "contaminacion.jpg",
+    "prompt": "primer plano de un terreno baldio industrial abandonado: un monticulo de tierra oscura empapada de aceite con brillo iridiscente en la superficie, manchas negras de hidrocarburo extendiendose por el suelo desnudo y agrietado, junto a un barril metalico oxidado y volcado, trozos de chatarra semienterrados, hierba seca y amarillenta alrededor, pajaro ausente, cielo plomizo, atmosfera opresiva y contaminada, luz gris difusa, aspecto realista de documental, fotografia documental realista, gran angular, primer plano, alto detalle, sin texto, sin letras, sin numeros, sin simbolos, sin rotulos, sin etiquetas, sin marcos, sin bordes, sin marca de agua, sin firma",
+    "model": "flux-dev",
+    "id": "d2846a2a-9975-4785-9ae0-516bd569516e"
+  },
+  "remediacion": {
+    "file": "remediacion.jpg",
+    "prompt": "plantas de raices profundas creciendo en suelo contaminado, con bacterias y hongos luminosos alrededor de las raices limpiando el suelo, particulas oscuras desapareciendo gradualmente. ilustracion educativa digital, estilo vectorial limpio y calido, colores tierra y verdes naturales, composicion clara, alto contraste, sin texto, sin letras, sin numeros, sin marcas de agua, fondo simple",
+    "model": "flux-dev",
+    "id": "2151eeb4-c6eb-435a-aa9f-bd828546f003"
+  },
+  "cic": {
+    "file": "cic.jpg",
+    "prompt": "primer plano macro de un terron de suelo oscuro y humedo, con estructura granular, sobre el que estan adheridas muchas esferas diminutas de minerales de colores brillantes verdes, azules, naranjas y doradas, pegadas a la superficie del terron y brillando bajo la luz, algunas suspendidas alrededor como polvo luminoso, fondo oscuro desenfocado de tierra, ilustracion naturalista realista, iluminacion suave de estudio, profundidad de campo corta, paleta de tierras oscuras, ocres, verdes y azules, sin ningun tipo de texto, sin letras, sin numeros, sin simbolos, sin rotulos, sin etiquetas, sin marcos, sin bordes",
+    "model": "flux-dev",
+    "id": "a100c909-ff3d-4ef0-9669-bc267bb34086"
+  },
+  "ph": {
+    "file": "ph.jpg",
+    "prompt": "escala horizontal de color tipo arcoiris que va de naranja intenso a azul, con una planta saludable en el centro y plantas marchitas en los extremos, sobre una seccion de suelo. ilustracion educativa digital, estilo vectorial limpio y calido, colores tierra y verdes naturales, composicion clara, alto contraste, sin texto, sin letras, sin numeros, sin marcas de agua, fondo simple",
+    "model": "flux-dev",
+    "id": "701e49cf-f552-4262-95ce-b0dcd385b66d"
+  },
+  "ciclo": {
+    "file": "ciclo.jpg",
+    "prompt": "ciclo circular de nutrientes en el suelo: hojas que caen, se descomponen en humus oscuro, raices que absorben, planta que crece y vuelve a soltar hojas, mostrado con flechas curvas. ilustracion educativa digital, estilo vectorial limpio y calido, colores tierra y verdes naturales, composicion clara, alto contraste, sin texto, sin letras, sin numeros, sin marcas de agua, fondo simple",
+    "model": "flux-dev",
+    "id": "a67e2522-6264-43f7-a10e-6f321bd447aa"
+  }
+}

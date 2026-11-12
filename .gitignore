@@ -1,0 +1,20 @@
+# No publicar nunca: credenciales
+api_*.txt
+*.key
+.env
+.env.*
+
+# No publicar: notas internas y scripts de generación
+STATE.md
+NOTES_AND_LEARNINGS.md
+skills/
+generar_*.py
+skynet.py
+servidor_local.py
+material_educativo/
+Referentes Técnicos/
+Referents Web App Interactivas/
+
+# Sistema
+Thumbs.db
+Desktop.ini

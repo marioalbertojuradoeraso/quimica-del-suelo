@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Química del Suelo · aprender mirando el suelo</title>
+<meta name="description" content="Recorrido interactivo por la química y la física del suelo: horizontes, textura, porosidad, pH, CIC, salinidad, nutrientes, contaminación y remediación.">
+<meta name="theme-color" content="#2f6b4f">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌱</text></svg>">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="lectura" aria-hidden="true"><i id="lecturaBar"></i></div>
+  <div class="inner">
+    <a class="brand" href="#/">
+      <span class="mark">🌱</span>
+      <span class="brand-txt">Química del Suelo
+        <small>Del suelo y del sedimento</small>
+      </span>
+    </a>
+
+    <div class="hdr-tools">
+      <div class="escala" role="group" aria-label="Tamaño del texto">
+        <button type="button" id="btnMenos" title="Texto más pequeño" aria-label="Reducir el tamaño del texto">A−</button>
+        <button type="button" id="btnEscala" title="Volver al tamaño normal" aria-label="Tamaño de texto actual">100%</button>
+        <button type="button" id="btnMas" title="Texto más grande" aria-label="Aumentar el tamaño del texto">A+</button>
+      </div>
+      <button type="button" id="btnSonido" class="btn-icono" aria-pressed="true"
+              title="Sonido de avance activado" aria-label="Activar o desactivar los sonidos">🔔</button>
+      <div class="hdr-progress">
+        <span id="progTxt">0 de 15</span>
+        <span class="bar"><i id="progBar" style="width:0%"></i></span>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main id="app"></main>
+
+<nav class="barra-nav" id="barraNav" hidden aria-label="Navegación entre módulos">
+  <div class="bn-inner">
+    <button type="button" class="bn-lado" id="bnPrev">‹ <span>Anterior</span></button>
+    <span class="bn-mid" id="bnProg">0 de 15</span>
+    <button type="button" class="bn-lado bn-next" id="bnNext"><span>Siguiente</span> ›</button>
+  </div>
+</nav>
+
+<div id="toast" class="toast-wrap" aria-live="polite" aria-atomic="true"></div>
+
+<footer class="site-footer">
+  <div class="inner">
+    <span>Material educativo interactivo · Química del suelo y sedimentos</span>
+    <span>Ilustraciones con FLUX · Narración con ElevenLabs</span>
+  </div>
+</footer>
+
+<script src="contenido.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
