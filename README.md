@@ -1,5 +1,12 @@
 # Química del Suelo · Del suelo y del sedimento
 
+> ### 👉 [ABRIR LA APLICACIÓN](https://marioalbertojuradoeraso.github.io/quimica-del-suelo/)
+> **Enlace para compartir con los estudiantes:**
+> **https://marioalbertojuradoeraso.github.io/quimica-del-suelo/**
+>
+> Se abre directo en el navegador, sin cuenta y sin instalar nada. Funciona en
+> celular, tableta y computador.
+
 Recorrido interactivo para entender la química y la física del suelo y de los
 sedimentos de río, sin necesitar conocimientos previos. 15 módulos con texto,
 ilustración, simulador, pregunta y narración en voz alta.
@@ -8,7 +15,7 @@ ilustración, simulador, pregunta y narración en voz alta.
 
 No hay nada que instalar.
 
-- **En línea:** abre el enlace del sitio publicado (GitHub Pages).
+- **En línea:** abre el enlace del sitio publicado (GitHub Pages), arriba.
 - **Sin conexión o sin el enlace:** descarga la carpeta y haz doble clic en
   `index.html`. Funciona en Chrome, Edge y Firefox.
 
